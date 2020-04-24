@@ -1,17 +1,4 @@
-Yahtzee Game
-Setup
 
-    Download starter code.
-
-    Install required npm libraries:
-
-    $ npm install
-
-    Start The Server:
-
-    $ npm start
-
-_images/new_screenshot.png
 # The Game
 
 Yahtzee is a chance-and-strategy dice rolling game. A game is played over 13 rounds.
