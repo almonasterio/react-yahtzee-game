@@ -77,7 +77,9 @@ animateRoll(){
     }));
     this.roll();
   }
-
+componentDidMount() {
+  this.animateRoll()
+}
   render() {
     return (
       <div className='Game'>
